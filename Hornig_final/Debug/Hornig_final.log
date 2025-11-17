@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  Hornig_final.cpp
+C:\Users\brent\Desktop\Hornig_final\Hornig_final\Hornig_final.cpp(152,14): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/Hornig_final.cpp')
+  
+C:\Users\brent\Desktop\Hornig_final\Hornig_final\Hornig_final.cpp(233,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Hornig_final.cpp')
+  
+C:\Users\brent\Desktop\Hornig_final\Hornig_final\Hornig_final.cpp(234,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Hornig_final.cpp')
+  
+C:\Users\brent\Desktop\Hornig_final\Hornig_final\Hornig_final.cpp(252,13): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/Hornig_final.cpp')
+  
+C:\Users\brent\Desktop\Hornig_final\Hornig_final\Hornig_final.cpp(360,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Hornig_final.cpp')
+  
+C:\Users\brent\Desktop\Hornig_final\Hornig_final\Hornig_final.cpp(361,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Hornig_final.cpp')
+  
+  Hornig_final.vcxproj -> C:\Users\brent\Desktop\Hornig_final\Debug\Hornig_final.exe
